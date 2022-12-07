@@ -69,7 +69,7 @@ body {
 .delete_icon:hover {
     cursor: pointer;
 }
-.edit_icon:hover{
+.save:hover{
     cursor: pointer;
 }
 .container:nth-of-type(even){
